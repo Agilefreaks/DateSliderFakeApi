@@ -1,0 +1,7 @@
+{
+  "date": [
+    { "id": 1, "date": "09/09/2019", "eventName" : "Event 1" },
+    { "id": 1, "date": "09/09/2019", "eventName" : "Event 2" },
+    { "id": 1, "date": "09/09/2019", "eventName" : "Event 3" },
+  ]
+}
