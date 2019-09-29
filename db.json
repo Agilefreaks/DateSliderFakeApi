@@ -29,11 +29,6 @@
     { "id": 27, "date": "2019-09-27T08:14:00", "eventName" : "Event 27" },
     { "id": 28, "date": "2019-09-28T08:14:00", "eventName" : "Event 28" }, 
     { "id": 29, "date": "2019-09-29T08:14:00", "eventName" : "Event 29" },
-    { "id": 30, "date": "2019-09-30T08:14:00", "eventName" : "Event 30" },  
-    { "id": 1, "date": "2019-09-1T08:14:00", "eventName" : "Event 1" },
-    { "id": 2, "date": "2019-09-2T08:14:00", "eventName" : "Event 2" }, 
-    { "id": 3, "date": "2019-09-3T08:14:00", "eventName" : "Event 3" },
-    { "id": 4, "date": "2019-09-4T08:14:00", "eventName" : "Event 4" },
-    { "id": 5, "date": "2019-09-5T08:14:00", "eventName" : "Event 5" }
+    { "id": 30, "date": "2019-09-30T08:14:00", "eventName" : "Event 30" }
   ]
 }
